@@ -1,7 +1,6 @@
 '''
 Developer: Abhishek Manoj Sharma
 Course: CS 256 Section 2
-Homework: 5
 Date: November 18, 2017
 '''
 from nltk.tokenize import word_tokenize
